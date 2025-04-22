@@ -11,8 +11,8 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -25,7 +25,7 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming 
-- [] My favorite applications:
+- My favorite applications:
     - Instagram: 
         - Changing the story frame color after seen
         - Presenting thumbnails
@@ -35,7 +35,7 @@ The following **required** functionality is completed:
     - Youtube:
         - Previewing video
         - Creating the subscribe button effect
-- [] App ideas:
+- App ideas:
         - I would like to build an application that allows users to create thier own diet schedule based on their preferences. It will have several features like meal planning, recipe reccomendations, and hydration reminders. 
 
 ## Notes
