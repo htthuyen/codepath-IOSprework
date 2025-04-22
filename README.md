@@ -24,12 +24,23 @@ The following **required** functionality is completed:
     </a>
   </div>
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
+- [] My favorite applications:
+    - Instagram: 
+        - Changing the story frame color after seen
+        - Presenting thumbnails
+    - Facebook:
+        - Allowing to see active status
+        - Deleting message for both end-users
+    - Youtube:
+        - Previewing video
+        - Creating the subscribe button effect
+- [] App ideas:
+        - I would like to build an application that allows users to create thier own diet schedule based on their preferences. It will have several features like meal planning, recipe reccomendations, and hydration reminders. 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+The challenge that I face during the project is that it took me some time to get used to with the X-code interface.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
